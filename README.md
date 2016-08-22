@@ -47,14 +47,6 @@ of callbacks, your code looks and behaves like normal, blocking Python code.
 
 More info and documentation can be found at: <a href="http://docs.locust.io/">http://docs.locust.io/</a>
 
-
-## Authors
-
-- <a href="http://cgbystrom.com">Carl Bystr&ouml;m</a> (@<a href="http://twitter.com/cgbystrom">cgbystrom</a> on Twitter)
-- <a href="http://heyman.info">Jonatan Heyman</a> (@<a href="http://twitter.com/jonatanheyman">jonatanheyman</a> on Twitter)
-- Joakim Hamrén (@<a href="http://twitter.com/Jahaaja">Jahaaja</a>)
-- Hugo Heyman (@<a href="http://twitter.com/hugoheyman">hugoheyman</a>)
-
 ## License
 
 Open source licensed under the MIT license (see _LICENSE_ file for details).
